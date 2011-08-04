@@ -1,0 +1,4 @@
+Fix Facebook "like" button error.
+Usage:
+$('selector').likeGFW();
+
